@@ -15,7 +15,8 @@
         <file alias="transaction_confirmed">res/icons/transaction2.png</file>
         <file alias="transaction_1">res/icons/clock1.png</file>
         <file alias="transaction_2">res/icons/clock2.png</file>
-        <file alias="transaction_3">res/icons/clock3.png</file>        <file alias="transaction_4">res/icons/clock4.png</file>
+        <file alias="transaction_3">res/icons/clock3.png</file>
+        <file alias="transaction_4">res/icons/clock4.png</file>
         <file alias="transaction_5">res/icons/clock5.png</file>
         <file alias="options">res/icons/configure.png</file>
         <file alias="receiving_addresses">res/icons/receive.png</file>
@@ -26,9 +27,7 @@
         <file alias="toolbar_testnet">res/icons/toolbar_verge_testnet.png</file>
         <file alias="edit">res/icons/edit.png</file>
         <file alias="history">res/icons/history.png</file>
-		<file alias="radio">res/icons/radio.png</file>
         <file alias="overview">res/icons/overview.png</file>
-
         <file alias="export">res/icons/export.png</file>
         <file alias="synced">res/icons/synced.png</file>
         <file alias="remove">res/icons/remove.png</file>
